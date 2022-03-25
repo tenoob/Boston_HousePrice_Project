@@ -1,1 +1,1 @@
-web: gunicorn app:apppip list --format=freeze > requirements.txt
+web: gunicorn app:app
